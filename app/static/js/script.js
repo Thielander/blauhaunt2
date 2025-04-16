@@ -3125,6 +3125,7 @@ function mapPrePorcessBtnClick() {
 
 
 function fileUpload() {
+    console.log("fileUpload wurde aufgerufen");
     let uploadBtn = document.getElementById("uploadBtn")
     uploadBtn.disabled = true
     let spinner = document.createElement("span")
