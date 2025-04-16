@@ -1,5 +1,13 @@
 **Basic Worflow: Set Filters -> click Apply Filters -> click Render**
 
+# Blauhaunt2
+
+> ⚠️ Dieses Repository ist eine **Weiterentwicklung** des Tools [Blauhaunt von cgosec](https://github.com/cgosec/Blauhaunt).  
+> Ziel ist eine visuelle und technische Überarbeitung, u. a. mit Bootstrap, Vollbild-Modus und strukturellen Verbesserungen.  
+> Der ursprüngliche Code und diese Dokumentation stammen aus dem Originalprojekt und werden schrittweise angepasst.
+
+**Basic Worflow: Set Filters -> click Apply Filters -> click Render**
+
 # Blauhaunt
 A tool collection for filtering and visualizing logon events. Designed to help answering the "Cotton Eye Joe" question (Where did you come from where did you go) in Security Incidents and Threat Hunts.
 
